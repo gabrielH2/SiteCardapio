@@ -1,0 +1,103 @@
+html{
+    background-color:#f28705;
+}
+nav{
+    text-align: center;
+    font-style: italic;
+    font-size: 60px;
+    
+   
+}
+footer{
+   text-align: center;
+   
+
+}
+#logo{
+    height: 180px;
+    width: 180px;
+    border-radius: 30px;
+    float:none;
+    border-spacing: 100px;
+}
+#salgados{
+    text-align: left;
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    margin-left: 50px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#outros{
+    text-align: center;
+    height: 400px;
+    width: 500px;
+    display: inline-block;
+    position:absolute;
+
+}
+li{
+    font-weight: bolder;
+}
+#dog{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+   
+}
+#ham{
+    height: 200px;
+    width: 200px;  
+    border-radius: 50px;
+}
+#value{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#rest{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 50px;
+    height: 400px;
+    width: 400px;
+}
+#tort{
+    height: 200px;
+    width: 200px; 
+    border-radius: 50px;
+}
+#angulo{
+    text-align:center;
+    height: 800px;
+    width: 500px;
+    display: inline-block;
+    float: right;
+    font-weight: bolder;
+}
+#refri{
+    height: 200px;
+    width: 200px;  
+    border-radius: 50px;
+    font-size: 20px;
+}
+#copo{
+    height: 200px;
+    width: 200px;  
+    border-radius: 50px;
+    font-size: 20px;
+    
+}
+#espaco{
+    text-align:center;
+    height: 500px;
+    width: 500px;
+   
+  
+
+}
+
+
+    
